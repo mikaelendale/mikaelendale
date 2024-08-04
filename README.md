@@ -1,17 +1,12 @@
 # 👋 Hi, I'm Mikael Endale
 
-![Mikael Endale](https://path_to_your_profile_picture)
-
 ## 🚀 About Me
 
-I'm a passionate Fullstack Developer with a knack for creating efficient, scalable, and user-friendly web applications. As the Founder and CEO of Lalo Dev, I lead a dynamic team committed to pushing the boundaries of technology and innovation.
-
-### 🎓 Education
-- **B.Sc. in Computer Science** - [Your University Name]
+I'm a passionate Fullstack Developer with a knack for creating efficient, scalable, and user-friendly web applications. As the Founder and CEO of Lalo Dev, I lead a dynamic team committed to pushing the boundaries of technology and innovation. 
 
 ### 💼 Experience
 - **Founder & CEO** at [Lalo Dev](https://lalodev.com)
-- **Fullstack Developer** with extensive experience in [list your technologies, e.g., Laravel, Vue.js, React, etc.]
+- **Fullstack Developer** with extensive experience in   e.g., Laravel, Vue.js, React, etc...
 
 ## 🛠️ Skills
 
@@ -25,8 +20,7 @@ I'm a passionate Fullstack Developer with a knack for creating efficient, scalab
 
 ### Databases
 - **Relational:** MySQL, PostgreSQL
-- **NoSQL:** MongoDB, Redis
-
+  
 ### DevOps & Tools
 - **Version Control:** Git, GitHub
 - **CI/CD:** GitHub Actions, Jenkins
@@ -45,18 +39,12 @@ A system that views certificates which can be connected to LinkedIn, providing v
 
 - **Email:** [mikael@lalodev.com](mailto:mikael@lalodev.com)
 - **LinkedIn:** [Mikael Endale](https://linkedin.com/in/mikaelendale)
-- **Twitter:** [@mikael_endale](https://twitter.com/mikael_endale)
+- **WhatsApp:** [@mikael_endale](https://wa.me/+251955133507)
 
 ## 🌐 Let's Connect
 
 I'm always open to new opportunities, collaborations, and exciting projects. Feel free to connect with me on any of the platforms above or check out my [website](https://lalodev.com) for more information about my work and initiatives.
-
-## 📝 Latest Blog Posts
-
-- [Post Title 1](https://blog.lalodev.com/post1)
-- [Post Title 2](https://blog.lalodev.com/post2)
-- [Post Title 3](https://blog.lalodev.com/post3)
-
+ 
 ## 📈 GitHub Stats
 
 ![Mikael's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
