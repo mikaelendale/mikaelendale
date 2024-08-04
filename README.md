@@ -51,6 +51,8 @@ I'm always open to new opportunities, collaborations, and exciting projects. Fee
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelendale&layout=compact&theme=radical)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mikaelendale&theme=radical)](https://git.io/streak-stats)
+
 ## 💬 Quotes
 
 _"The best way to predict the future is to create it." - Peter Drucker_
