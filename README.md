@@ -47,11 +47,7 @@ I'm always open to new opportunities, collaborations, and exciting projects. Fee
  
 ## 📈 GitHub Stats
 
-![Mikael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikaelendale&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelendale&layout=compact&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mikaelendale&theme=radical)](https://git.io/streak-stats)
+![Mikael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikaelendale&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelendale&layout=compact&theme=radical)[![GitHub Streak](https://streak-stats.demolab.com/?user=mikaelendale&theme=radical)](https://git.io/streak-stats)
 
 ## 💬 Quotes
 
