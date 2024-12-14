@@ -50,7 +50,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikaelendale&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelendale&layout=compact&theme=radical)
 ![Issues Closed](https://img.shields.io/github/issues-closed/MikaelEndale?style=flat-square)
-![Repo Size](https://img.shields.io/github/repo-size/MikaelEndale/LaloDev?style=flat-square)
+![Repo Size](https://img.shields.io/github/repo-size/MikaelEndale/portfolio?style=flat-square)
 ![Commit Activity](https://img.shields.io/github/commit-activity/m/MikaelEndale?style=flat-square)
 
 ---
