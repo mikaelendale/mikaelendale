@@ -1,60 +1,64 @@
 # 👋 Hi, I'm Mikael Endale
+**Founder & CEO @ [LaloDev](https://lalodev.com)** | **EdTech Innovator** | **SaaS Builder** | **Data Scientist**
 
-## 🚀 About Me
+---
 
-I'm a passionate Fullstack Developer with a knack for creating efficient, scalable, and user-friendly web applications. As the Founder and CEO of Lalo Dev, I lead a dynamic team committed to pushing the boundaries of technology and innovation. 
+### 🚀 About Me
+- 🌱 Passionate about revolutionizing learning through **technology** and **innovation**.
+- 💡 Creator of the **LaloDev Learning Hub**, empowering students worldwide with efficient learning tools.
+- 🎯 Building scalable SaaS solutions for education and beyond.
 
-### 💼 Experience
-- **Founder & CEO** at [Lalo Dev](https://lalodev.com)
-- **Fullstack Developer** with extensive experience in   e.g., Laravel, Vue.js, React, etc...
+---
 
-## 🛠️ Skills
+### 🛠️ Technologies & Tools
+**Languages**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Frontend
-- **Languages:** HTML, CSS, JavaScript, TypeScript
-- **Frameworks/Libraries:** React, Vue.js, Tailwind CSS, Bootstrap
+**Frameworks & Libraries**  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9F7AEA?style=flat-square)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue-dot-js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
 
-### Backend
-- **Languages:** PHP, Node.js, Python
-- **Frameworks:** Laravel, Express.js, Django
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### Databases
-- **Relational:** MySQL, PostgreSQL
-  
-### DevOps & Tools
-- **Version Control:** Git, GitHub
-- **CI/CD:** GitHub Actions, Jenkins
-- **Cloud:** AWS, DigitalOcean
-- **Containerization:** Docker, Kubernetes
+---
 
-## 💼 Projects
+### 📌 Pinned Projects
+- 🖥️ [LaloDev Learning Hub](https://learn.lalodev.com)  
+  *Empowering students with modern education tools and seamless user experience.*  
 
-### [Lalo Dev Learning Hub](https://lalodev.com/learning-hub)
-An innovative platform offering interactive learning sessions and hands-on projects to nurture the next generation of developers.
+---
 
-### [Certify](https://certify.lalodev.com)
-A system that views certificates which can be connected to LinkedIn, providing validation and recognition of skills and achievements.
+### 🌟 Highlights
+- 💼 Successfully launched the **LaloDev Learning Hub**, supporting over **1,000+ users**.
+- 🏆 Recognized for **SaaS scalability** and **data-driven innovation** in EdTech.
 
-## 📫 How to Reach Me
+---
 
-- **Email:** [mikael@lalodev.com](mailto:mikael@lalodev.com)
-- **LinkedIn:** [Mikael Endale](https://linkedin.com/in/mikaelendale)
-- **WhatsApp:** [@mikael_endale](https://wa.me/+251955133507)
+### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikaelEndale&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelEndale&layout=compact&theme=radical)
 
-## 🌐 Let's Connect
+---
 
-I'm always open to new opportunities, collaborations, and exciting projects. Feel free to connect with me on any of the platforms above or check out my [website](https://lalodev.com) for more information about my work and initiatives.
- 
-## 📈 GitHub Stats
+### 📢 Let’s Connect!
+- 🌐 [LaloDev](https://lalodev.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mikaelendele)  
+- 📷 [instagram](https://instagram.com/mikoactive)
+- ✉️ [email](mailto:mikaelendale00@gmail.com)
 
-![Mikael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikaelendale&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelendale&layout=compact&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mikaelendale&theme=radical)](https://git.io/streak-stats)
+---
 
-## 💬 Quotes
-
-_"The best way to predict the future is to create it." - Peter Drucker_
-
-_"Code is like humor. When you have to explain it, it’s bad." - Cory House_
-
-Thank you for visiting my profile! 🙏
+**“Building the future of learning—one line of code at a time.”**  
+*© 2024 Mikael Endale | LaloDev*
