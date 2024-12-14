@@ -54,7 +54,7 @@
 
 ### 📢 Let’s Connect!
 - 🌐 [LaloDev](https://lalodev.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mikaelendele)  
+- 💼 [LinkedIn](www.linkedin.com/in/mikael-endale-7572722b3)  
 - 📷 [instagram](https://instagram.com/mikoactive)
 - ✉️ [email](mailto:mikaelendale00@gmail.com)
 
