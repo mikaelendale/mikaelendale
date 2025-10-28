@@ -23,16 +23,10 @@ Mostly working with **Laravel + React**, building production-grade SaaS for real
 
 ---
 
-### 📈 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikaelendev&show_icons=true&theme=codeSTACKr)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelendev&layout=compact&theme=codeSTACKr)
-
----
-
 ### ⚡ Repos to Check Out
-- [**BlazeMail.ai**](https://github.com/mikaelendev/blazemail) — ultra-fast AI cold emailer  
-- [**ZeroKey**](https://github.com/mikaelendev/zerokey) — quantum encryption password manager  
-- [**Nudgify**](https://github.com/mikaelendev/nudgify) — micro-learning SaaS with smart nudges  
+- **BlazeMail.ai** — ultra-fast AI cold emailer  
+- **ZeroKey** — quantum encryption password manager  
+- **Nudgify** — micro-learning SaaS with smart nudges  
 
 ---
 
