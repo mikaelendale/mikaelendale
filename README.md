@@ -1,41 +1,25 @@
-## 👋 Hey, I'm Mikael Endale (@mikaelendev)
+# 👋 I'm Mikael Endale
 
-> Full-stack dev | SaaS builder | Security & AI enthusiast
+**Applied AI Architect | Infrastructure & Autonomous Systems**
 
-I build fast, scalable systems — from **AI tools** to **quantum-encrypted apps**.  
-Mostly working with **Laravel + React**, building production-grade SaaS for real users.
+I build the infrastructure that makes AI actually useful in the real world. While most build thin wrappers, I focus on deep technical execution: autonomous agentic workflows, custom Large Analytical Models (LAMs), and AI-native infrastructure. 
 
----
+Operating out of Addis Ababa 🇪🇹, building for the global frontier.
 
-### 🧠 Current Focus
-- 🔐 **ZeroKey** — quantum-based password manager  
-- ✉️ **BlazeMail.ai** — AI cold email generator powered by Groq  
-- 🧩 **Nudgify** — smart learning reinforcement app  
+### 🧠 Core Architecture & Focus
+*   **Agentic Workflows:** Multi-agent systems capable of real-time operational execution.
+*   **Custom LAMs:** Large Analytical Models designed to eliminate hallucination in enterprise data.
+*   **AI Infrastructure:** High-performance backend routing, API layers, and scalable system design.
 
----
+### ⚡ The Stack
+*   **Backend:** Laravel, PHP, Node.js, Python
+*   **Frontend:** React, Inertia.js, TailwindCSS
+*   **AI/Data:** OpenAI, Groq, Custom LAMs, Vector DBs
+*   **Infra:** Docker, AWS, Laravel Cloud, Nginx
 
-### ⚙️ Stack
-**Backend:** Laravel, PHP, Node.js  
-**Frontend:** React, Inertia.js, TailwindCSS  
-**Database:** MySQL, SQLite  
-**Infra:** Docker, Nginx, AWS, Laravel Cloud  
-**Other:** MCP integrations, Paddle payments, AI APIs (OpenAI, Groq)
+### 🚀 Featured Systems
+*   **Budera:** AI banking infrastructure with sub-5s transaction latency.
+*   **ARIA:** Autonomous AI agent designed to run real-time hospitality operations.
+*   **Budera LAM:** Specialized analytical model built to enforce 100% calculation accuracy for AI systems.
 
----
-
-### ⚡ Repos to Check Out
-- **BlazeMail.ai** — ultra-fast AI cold emailer  
-- **ZeroKey** — quantum encryption password manager  
-- **Nudgify** — micro-learning SaaS with smart nudges  
-
----
-
-### 🧩 About Me
-- Building SaaS since high school  
-- 20+ full-stack projects done solo  
-- Hackathon winner & IT dept. head  
-- Shipping > talking  
-
----
-
-> **“Code hard. Ship fast. Stay curious.”**
+*"I don't follow trends. I build the systems that power them."*
