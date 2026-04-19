@@ -22,4 +22,3 @@ Operating out of Addis Ababa 🇪🇹, building for the global frontier.
 *   **ARIA:** Autonomous AI agent designed to run real-time hospitality operations.
 *   **Budera LAM:** Specialized analytical model built to enforce 100% calculation accuracy for AI systems.
 
-*"I don't follow trends. I build the systems that power them."*
