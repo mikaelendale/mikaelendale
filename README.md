@@ -4,7 +4,7 @@
 
 I build the infrastructure that makes AI actually useful in the real world. While most build thin wrappers, I focus on deep technical execution: autonomous agentic workflows, custom Large Analytical Models (LAMs), and AI-native infrastructure. 
 
-Operating out of Addis Ababa 🇪🇹, building for the global frontier.
+Founders Inc. Canopy — San Francisco 2026
 
 ### 🧠 Core Architecture & Focus
 *   **Agentic Workflows:** Multi-agent systems capable of real-time operational execution.
